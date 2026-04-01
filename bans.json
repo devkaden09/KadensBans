@@ -2,5 +2,9 @@
     "VexedJupiter": {
         "banneduntil": "2026/4/3",
         "BanReason": "Leaving during raid"
+    },
+    "king.george.the.3rd": {
+        "banneduntil": "2026/4/5",
+        "BanReason": "Breaking NLR plus leaving during raid"
     }
 }
