@@ -1,1 +1,6 @@
-{}
+{
+    "PepsiTheOutlaw": {
+        "banneduntil": "2026/4/3",
+        "BanReason": "test"
+    }
+}
