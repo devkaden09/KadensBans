@@ -14,5 +14,9 @@
     "wayler4167": {
         "banneduntil": "2026/4/2",
         "BanReason": "Code guessing after warning"
+    },
+    "Koltonmonroe": {
+        "banneduntil": "2026/4/5",
+        "BanReason": "Broke NLR and code guessing"
     }
 }
