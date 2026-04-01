@@ -6,5 +6,9 @@
     "king.george.the.3rd": {
         "banneduntil": "2026/4/5",
         "BanReason": "Breaking NLR plus leaving during raid"
+    },
+    "antsweet51": {
+        "banneduntil": "2026/4/5",
+        "BanReason": "RDM and leaving during sit"
     }
 }
