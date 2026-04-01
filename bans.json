@@ -1,1 +1,6 @@
-{}
+{
+    "MATHI4S": {
+        "banneduntil": "2026/4/3",
+        "BanReason": "TESTBLACKLISTBAN"
+    }
+}
