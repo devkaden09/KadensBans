@@ -46,5 +46,9 @@
     "CALISAINT.209": {
         "banneduntil": "2026/4/3",
         "BanReason": "RDM"
+    },
+    "sebb_a": {
+        "banneduntil": "2026/4/2",
+        "BanReason": "unbanidfk"
     }
 }
