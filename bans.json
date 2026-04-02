@@ -42,5 +42,9 @@
     "LAMINE_YAMAL5678": {
         "banneduntil": "2026/4/4",
         "BanReason": "RDM and breaking rule 24"
+    },
+    "CALISAINT.209": {
+        "banneduntil": "2026/4/3",
+        "BanReason": "RDM"
     }
 }
