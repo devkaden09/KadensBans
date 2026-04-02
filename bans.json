@@ -34,5 +34,9 @@
     "JewJewJewSAHUR": {
         "banneduntil": "2026/4/6",
         "BanReason": "Code guessing, abusing suicide, and leaving the game during the sit"
+    },
+    "MOE_BRO": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "ban"
     }
 }
