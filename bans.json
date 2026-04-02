@@ -30,5 +30,9 @@
     "gdt.mafia": {
         "banneduntil": "2026/4/2",
         "BanReason": "rdm"
+    },
+    "JewJewJewSAHUR": {
+        "banneduntil": "2026/4/6",
+        "BanReason": "Code guessing, abusing suicide, and leaving the game during the sit"
     }
 }
