@@ -62,5 +62,9 @@
     "ghost123.302929": {
         "banneduntil": "2026/4/6",
         "BanReason": "Prop block + evasion of admin sit."
+    },
+    "Mrbossvr12": {
+        "banneduntil": "2027/1/1",
+        "BanReason": "Under age limit"
     }
 }
