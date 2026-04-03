@@ -70,5 +70,9 @@
     "ManRay": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard r"
+    },
+    "ghost123.302929": {
+        "banneduntil": "2026/4/6",
+        "BanReason": "Prop block + evasion of admin sit."
     }
 }
