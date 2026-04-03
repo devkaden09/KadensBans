@@ -50,5 +50,9 @@
     "Chief1012": {
         "banneduntil": "2026/4/5",
         "BanReason": "Prop block on other bases"
+    },
+    "testicle_twister3": {
+        "banneduntil": "2026/4/6",
+        "BanReason": "Prop blocking his own base and evasion"
     }
 }
