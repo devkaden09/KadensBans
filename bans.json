@@ -66,5 +66,9 @@
     "Marshmellownevus12": {
         "banneduntil": "2026/4/9",
         "BanReason": "Mass rdm"
+    },
+    "ManRay": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard r"
     }
 }
