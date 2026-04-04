@@ -66,5 +66,9 @@
     "sebb_a": {
         "banneduntil": "2026/4/7",
         "BanReason": "Rdm and evasion"
+    },
+    "red1neck1townd": {
+        "banneduntil": "2026/4/10",
+        "BanReason": "Himophobia (spamming f slur in a derogatory way)"
     }
 }
