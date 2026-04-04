@@ -62,5 +62,9 @@
     "CJ_34": {
         "banneduntil": "2099/1/1",
         "BanReason": "Video of him saying HARD R"
+    },
+    "sebb_a": {
+        "banneduntil": "2026/4/7",
+        "BanReason": "Rdm and evasion"
     }
 }
