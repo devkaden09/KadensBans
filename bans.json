@@ -18,5 +18,9 @@
     "CJ_34": {
         "banneduntil": "2099/1/1",
         "BanReason": "Video of him saying HARD R"
+    },
+    "developerkaden": {
+        "banneduntil": "2026/5/11",
+        "BanReason": "Ban bot public"
     }
 }
