@@ -26,5 +26,9 @@
     "Toastie.the.fox": {
         "banneduntil": "2099/1/1",
         "BanReason": "loser"
+    },
+    "PepsiTheOutlaw": {
+        "banneduntil": "2020/1/1",
+        "BanReason": "Unban hes cool"
     }
 }
