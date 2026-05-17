@@ -24,7 +24,7 @@
         "BanReason": "loser"
     },
     "developerkaden": {
-        "banneduntil": "2099/1/1",
-        "BanReason": "test"
+        "banneduntil": "2000/1/1",
+        "BanReason": "unban"
     }
 }
