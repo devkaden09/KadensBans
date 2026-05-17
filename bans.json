@@ -22,5 +22,9 @@
     "Toastie.the.fox": {
         "banneduntil": "2099/1/1",
         "BanReason": "loser"
+    },
+    "developerkaden": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "test"
     }
 }
